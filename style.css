@@ -1,0 +1,37 @@
+#div01{
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+}
+#div02{
+    background-color: rgb(88, 119, 96);
+    border-radius: 20px;
+}
+table {
+        border-collapse: collapse;
+        width: 100%;
+        
+      }
+      #start-btn{
+       height: 50px;
+       width: 120px;
+       background-color: rgb(93, 166, 144);
+       color: rgb(255, 255, 255);
+       border: none;
+       border-radius: 20px;
+       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      }
+      #start-btn:hover{
+        background-color: aliceblue;
+        color: black;
+        border-radius: 20px;
+      }
+      th,td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+        color: #eadcc7;
+      }
+      th,td:hover {
+       background-color: antiquewhite;
+       color: black;
+      }
